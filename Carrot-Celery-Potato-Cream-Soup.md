@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: recipe
 title: Carrot, Celery & Potato Cream Soup
 date: 2021-01-03
 category: soup
-tags: immersion, 
+tags: immersion
 ---
 
 Prep time: 10 mins
@@ -37,4 +37,4 @@ Serves: 4-6
 1. Heat over low and stir in the half and half. Add more seasonings if desired.
 
 
-[Source My San Francisco Kitchen](https://www.mysanfranciscokitchen.com/carrot-celery-potato-cream-soup/)
+[Source: My San Francisco Kitchen](https://www.mysanfranciscokitchen.com/carrot-celery-potato-cream-soup/)
