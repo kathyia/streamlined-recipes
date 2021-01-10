@@ -13,17 +13,17 @@ Total time: 40 mins
 Serves: 4-6
 
 ## Ingredients
-2 tbsp unsalted butter
-5 medium carrots, chopped
-½ yellow onion, chopped
-2 garlic cloves
-5 medium celery stalks, chopped
-2 large potatoes
-6 cups chicken broth
-½ cup half and half
-2 tsp oregano
-1 tsp pepper
-1 tsp parsley
+* 2 tbsp unsalted butter
+* 5 medium carrots, chopped
+* ½ yellow onion, chopped
+* 2 garlic cloves
+* 5 medium celery stalks, chopped
+* 2 large potatoes
+* 6 cups chicken broth
+* ½ cup half and half
+* 2 tsp oregano
+* 1 tsp pepper
+* 1 tsp parsley
 
 ## Instructions
 1. Heat butter in a large stock pot over medium heat.
