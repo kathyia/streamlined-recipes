@@ -26,8 +26,8 @@ COOKING INSTRUCTIONS
 1. Turn over your hash browns by taking a large plate, placing it on top if the pan and flipping over. Then, slide it back into the pan.
 1. Then, crack 4-5 eggs into the hash browns and place into the preheated oven for 6-8 minutes at 190 degrees C (375 F).
 1. Meanwhile, cook classic American bacon. 
-* Heat the pan, add some olive oil and a tablespoon of brown sugar. Next, add salt, pepper and butter. 
-* Place the bacon into the pan and cook until nicely colored.
->Place your crispy hash browns onto the plate and put bacon on baked eggs.
+1. Heat the pan, add some olive oil and a tablespoon of brown sugar. Next, add salt, pepper and butter. 
+1. Place the bacon into the pan and cook until nicely colored.
+1. Place your crispy hash browns onto the plate and put bacon on baked eggs.
 
-[Source: gordonrumsay.com] (https://gordonrumsay.com/eggs-baked-in-hash-browns)
+[Source: gordonrumsay.com](https://gordonrumsay.com/eggs-baked-in-hash-browns)
