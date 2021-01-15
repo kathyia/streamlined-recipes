@@ -6,8 +6,7 @@ category: side
 tags: indian, lentils
 ---
 
-Red Lentil Side Dish
-Prep: 30 min
+Prep time: 30 min
 
 ## Ingredients
 * 1 Vidalia onion, chopped
