@@ -6,7 +6,7 @@ category: breakfast
 tags: Gordon Ramsay
 ---
 
-INGREDIENTS:
+## Ingredients
 * 5-6 potatoes
 * 1 onion
 * Cayenne pepper 1 tsp
@@ -18,7 +18,7 @@ INGREDIENTS:
 * Salt
 * Pepper
 
-COOKING INSTRUCTIONS
+## Instructions
 1. Peel 5-6 medium sized potatoes and 1 big onion. Grate them and place into the bowl. 
 1. Season with salt and pepper, add olive oil and cayenne pepper. Then, squeeze all the liquid out. The more liquid you remove, the crispier your hash browns will be.
 1. Take a nice large pan. Get it nice and hot. Add a glug of olive oil. 
