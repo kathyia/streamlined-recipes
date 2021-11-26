@@ -3,7 +3,7 @@ layout: recipe
 title: Shakshouka
 date: 2014-01-01
 category: main
-tags: vegan, vege, 
+tags: vegan, vege, north africa
 ---
 
 Prep time: 30 mins
