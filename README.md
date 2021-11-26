@@ -1,7 +1,3 @@
-# streamlined-recipes
-streamlined-recipes
-
-
 ---
 layout: recipe
 title: Mini Apple Hand Pies
