@@ -1,9 +1,9 @@
 ---
 layout: recipe
-title: MSour Milk Pancakes
+title: Sour Milk Pancakes
 date: 2022-01-02
 category: breakfast
-tags: crust
+tags: Wes
 ---
 
 Prep time: 15 mins
