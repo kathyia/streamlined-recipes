@@ -13,12 +13,12 @@ Total time: 1.25 hr
 Serves: 12 mini pies
 
 ## Ingredients
-* Rice pudding
+### Rice pudding
 * 1 cup short-grained white rice (pudding rice)
 * 1/2 cup water
 * 4 1/4 cups milk
 * 2 vanilla beans (the seeds)
-## Risalamande
+### Risalamande
 * 5 1/2 oz almonds
 * 2 tbsp sugar
 * 2 cups heavy cream
