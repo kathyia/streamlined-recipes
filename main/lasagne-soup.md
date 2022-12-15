@@ -18,7 +18,7 @@ Serves: 4 x 2c. each (makes 8 c.)
 * 1 medium yellow onion (about 8 ounces), diced
 * 3 cloves garlic, minced or finely grated
 * 2 tablespoons tomato paste
-* 1 teaspoon dried oregano\
+* 1 teaspoon dried oregano
 * 1 teaspoon dried basil
 * 1/2 teaspoon fine salt
 * 1/4 teaspoon freshly ground black pepper
@@ -40,4 +40,4 @@ Serves: 4 x 2c. each (makes 8 c.)
 
 NOTE: If you cannot find chicken sausage that has easily removable casings — typically sold at the butcher's counter in the supermarket — you can purchase a packaged chicken sausage, such as Applegate brand, and slice them into medallions. Follow the searing directions above, but don't worry about breaking the medallions into pieces.
 
-[Source: Washington Post]([https://www.livewellbakeoften.com/mini-apple-pies/#wprm-recipe-container-16842](https://s2.washingtonpost.com/camp-rw/?trackId=6137d71eae7e8a227661e1f5&s=636bb5087e2620469f08c5d3&linknum=4&linktot=54))
+[Source: Washington Post]([https://www.livewellbakeoften.com/mini-apple-pies/#wprm-recipe-container-16842](https://s2.washingtonpost.com/camp-rw/?trackId=6137d71eae7e8a227661e1f5&s=636bb5087e2620469f08c5d3&linknum=4&linktot=54])
