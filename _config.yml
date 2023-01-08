@@ -1,5 +1,6 @@
 remote_theme: sighingnow/jekyll-gitbook
 title: NJKIAB recipe bookmarks
 description: Recipes
+page_excerpts: true
 
 [//]: # (Theme from https://sighingnow.github.io/jekyll-gitbook/)
