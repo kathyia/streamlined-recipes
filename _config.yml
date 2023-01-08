@@ -2,5 +2,9 @@ remote_theme: sighingnow/jekyll-gitbook
 title: NJKIAB recipe bookmarks
 description: Recipes
 page_excerpts: true
+toc:
+    enabled: true
+    h_min: 1
+    h_max: 3
 
 [//]: # (Theme from https://sighingnow.github.io/jekyll-gitbook/)
