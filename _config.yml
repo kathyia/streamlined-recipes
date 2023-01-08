@@ -1,4 +1,2 @@
-theme: jekyll-theme-minimal
+remote_theme: sighingnow/jekyll-gitbook
 title: NJKIAB recipe bookmarks
-description: Recipes we want to quickly reference.
-markdown: kramdown
