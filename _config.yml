@@ -7,4 +7,15 @@ toc:
     h_min: 1
     h_max: 3
 
+tracker:
+  google_analytics: "<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5VDN5899X9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5VDN5899X9');
+</script>"
+  
 [//]: # (Theme from https://sighingnow.github.io/jekyll-gitbook/)
