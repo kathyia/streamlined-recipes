@@ -21,4 +21,4 @@ tags: sauerkraut, sausage, kielbasa, czech, peasant
 5. Cover skillet and cook for 25 minutes.
 6. Serve immediately.
 
-[Source: Most normal source Nathan could find](https://www.foxvalleyfoodie.com/sauerkraut-and-dumplings-with-kielbasa/)
+[Source: Most normal source Nathan could find]([https://www.foxvalleyfoodie.com/sauerkraut-and-dumplings-with-kielbasa/](https://www.foxvalleyfoodie.com/sauerkraut-and-dumplings-with-kielbasa/#:~:text=Read%20More-,Sauerkraut%20and%20Dumplings%20with%20Kielbasa,-Sauerkraut%20and%20Dumplings))
