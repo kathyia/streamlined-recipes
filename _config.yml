@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: sighingnow/jekyll-gitbook
 title: NJKIAB recipe bookmarks
 description: Recipes
+
+[//]: # (Theme from https://sighingnow.github.io/jekyll-gitbook/)
