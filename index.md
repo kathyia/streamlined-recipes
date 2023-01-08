@@ -4,11 +4,12 @@ title: NJKIAB Recipe bookmarks
 description: Streamlined recipes
 ---
 
-          <li><a href="{{ BASE_PATH }}/brekkie">brekkie</a></li>
-          <li><a href="{{ BASE_PATH }}/cake">cake</a></li>
-          <li><a href="{{ BASE_PATH }}/cookies">cookies</a></li>
-          <li><a href="{{ BASE_PATH }}/dessert">dessert</a></li>
-          <li><a href="{{ BASE_PATH }}/drinks">drinks</a></li>
-          <li><a href="{{ BASE_PATH }}/main">main</a></li>
-          <li><a href="{{ BASE_PATH }}/sides">sides</a></li>
-          <li><a href="{{ BASE_PATH }}/soup">soup</a></li>
+  
+[Brekkie]: (https://kathyia.github.io/streamlined-recipes/brekkie)
+[Cake]: (https://kathyia.github.io/streamlined-recipes/cake)
+[Cookies]: (https://kathyia.github.io/streamlined-recipes/cookies)
+[Dessert]: (https://kathyia.github.io/streamlined-recipes/dessert)
+[Drinks]: (https://kathyia.github.io/streamlined-recipes/drinks)
+[Main]: (https://kathyia.github.io/streamlined-recipes/main)
+[Sides]: (https://kathyia.github.io/streamlined-recipes/sides)
+[Soup]: (https://kathyia.github.io/streamlined-recipes/soup)
