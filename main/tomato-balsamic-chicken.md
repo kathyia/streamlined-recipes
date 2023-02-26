@@ -10,15 +10,15 @@ Servings: 2 to 3
 Total time: 25 mins
 
 ## Ingredients
-Two (6- to 8-ounce) boneless, skinless chicken breast halves (no tenderloins)
-1 tablespoon extra-virgin olive oil
-1/4 cup tomato paste
-1/2 cup chicken broth, preferably no-salt-added, or more as needed
-1/2 cup balsamic vinegar, or more as needed
-Fine salt
-Freshly ground black pepper
-Leaves from 4 stems thyme
-1/2 teaspoon dried oregano (may substitute dried marjoram)
+* Two (6- to 8-ounce) boneless, skinless chicken breast halves (no tenderloins)
+* 1 tablespoon extra-virgin olive oil
+* 1/4 cup tomato paste
+* 1/2 cup chicken broth, preferably no-salt-added, or more as needed
+* 1/2 cup balsamic vinegar, or more as needed
+* Fine salt
+* Freshly ground black pepper
+* Leaves from 4 stems thyme
+* 1/2 teaspoon dried oregano (may substitute dried marjoram)
 
 ## Steps
 1. If the chicken breast halves are of uneven thickness, you may want to either pound them between pieces of plastic wrap or, even easier, use a sharp knife to make shallow cuts in the thicker parts of the meat.
