@@ -43,7 +43,7 @@ Total time: 45 mins
 1. Lay the crepe flat on a plate, add two slices of Swiss cheese, a few spoonfuls of cooked turkey, and  some mushroom slices.
 1. Carefully roll the crepes tightly, without the filling falling out, then top with chopped parsley to serve.
 
-Source: https://www.epicurean.com/articles/crepes.html https://mamaharriskitchen.com/2016/07/savory-crepes-turkey-mushroom-swiss/
+Source: https://mamaharriskitchen.com/2016/07/savory-crepes-turkey-mushroom-swiss/
 
 
 ...
@@ -74,3 +74,5 @@ Source: https://www.epicurean.com/articles/crepes.html https://mamaharriskitchen
 * Garbanzo Flour Crêpes: Follow the savory crêpe recipe, but replace the 1 cup all-purpose flour with 2/3 cup all-purpose flour and 2/3 cup garbanzo flour.
 * Chestnut-Garbanzo Flour Crêpes: Follow the savory crêpe recipe, but replace the 1 cup all-purpose flour with 2/3 cup garbanzo flour and 1/2 cup chestnut flour.
 * Whole-Wheat Crêpes: Follow the savory crepe recipe, but replace the 1 cup all-purpose flour with 1 cup whole-wheat flour or 1 cup wholewheat pastry flour, or 1/2 cup all-purpose flour and 1/2 cup whole-wheat flour.
+
+Source: https://www.epicurean.com/articles/crepes.html 
