@@ -48,33 +48,29 @@ Source: https://www.epicurean.com/articles/crepes.html https://mamaharriskitchen
 
 ...
 
-Savory Crêpes
-2 large eggs
-1 cup milk
-1/3 cup water
-1 cup all-purpose flour, preferably bleached
-1/4 teaspoon salt
-2 tablespoons butter, melted, plus 2 or 3 teaspoons butter for coating the pan
-In a blender or food processor, blend the eggs, milk, water, flour, salt, and the 2 tablespoons melted butter for 5 seconds, or until smooth. Stir down and repeat if necessary. Or, to mix by hand, sift the flour into a medium bowl and add the salt. Whisk the eggs until blended, mix in the milk and water, and whisk this mixture into the flour and salt; stir in the 2 tablespoons melted butter. Cover and refrigerate for at least 1 hour (though 2 hours is preferable) or up to 24 hours.
+# Savory Crêpes II
 
-Gently stir the batter if it has separated. Heat a seasoned 6- or 7-inch nonstiek crepe pan over medium-high heat until hot. (Use a 9- or 10-inch pan for larger crepes.) Coat the pan lightly with butter, lift the pan from the heat, and pour in 2 or 3 tablespoons of batter for a 6 or 7-inch pan, or about 1/4 cup for a 9- or 10-inch pan, tilting and rotating the pan to coat the surface. Cook until almost dry on top and lightly browned on the edges, about 1 minute. Loosen the edges with a metal spatula and flip the crêpe over using your fingers or the spatula, then cook the other side for about 15 seconds, or until lightly browned. Turn the crêpe out onto a clean tea towel to cool. Repeat with the remaining batter, wiping the pan with butter as needed and stacking the crêpes as they are cooked. For serving immediately, cover the crêpes with alurninum foil and keep them warm in a preheated 200°F oven. For serving later, wrap them in plastic wrap in quantities intended for each use and slip them in a self-sealing plastic bag. Refrigerate crêpes for up to 3 days, or freeze them for up to 2 months.
+## Ingredients
 
-Makes sixteen to eighteen 6- or 7-inch crêpes, or ten to twelve 9- or 10-inch crêpes
+* 2 large eggs
+* 1 cup milk
+* 1/3 cup water
+* 1 cup all-purpose flour, preferably bleached
+* 1/4 teaspoon salt
+* 2 tablespoons butter, melted, plus 2 or 3 teaspoons butter for coating the pan
 
-Herb Crêpes: Follow the savory crêpe recipe and add 1/4 cup minced fresh chives, basil, or flat-leaf parsley to the batter while blending it. Or, for pale green mixed-herb crêpes, use 1/2 cup mixed minced fresh chives, green onion tops, flat-leaf parsley, tarragon, marjoram, and basil.
+## Instructions
 
-Sun-Dried Tomato Crêpes: Follow the savory crêpe recipe and add 1/4 cup minced oil-packed sun-dried tomatoes to the batter while blending it.
+1. In a blender or food processor, blend the eggs, milk, water, flour, salt, and the 2 tablespoons melted butter for 5 seconds, or until smooth. Stir down and repeat if necessary. Or, to mix by hand, sift the flour into a medium bowl and add the salt. Whisk the eggs until blended, mix in the milk and water, and whisk this mixture into the flour and salt; stir in the 2 tablespoons melted butter. Cover and refrigerate for at least 1 hour (though 2 hours is preferable) or up to 24 hours.
+1. Gently stir the batter if it has separated. Heat a seasoned 6- or 7-inch nonstiek crepe pan over medium-high heat until hot. (Use a 9- or 10-inch pan for larger crepes.) Coat the pan lightly with butter, lift the pan from the heat, and pour in 2 or 3 tablespoons of batter for a 6 or 7-inch pan, or about 1/4 cup for a 9- or 10-inch pan, tilting and rotating the pan to coat the surface. Cook until almost dry on top and lightly browned on the edges, about 1 minute. Loosen the edges with a metal spatula and flip the crêpe over using your fingers or the spatula, then cook the other side for about 15 seconds, or until lightly browned. Turn the crêpe out onto a clean tea towel to cool. Repeat with the remaining batter, wiping the pan with butter as needed and stacking the crêpes as they are cooked. For serving immediately, cover the crêpes with alurninum foil and keep them warm in a preheated 200°F oven. For serving later, wrap them in plastic wrap in quantities intended for each use and slip them in a self-sealing plastic bag. Refrigerate crêpes for up to 3 days, or freeze them for up to 2 months.
+1. Makes sixteen to eighteen 6- or 7-inch crêpes, or ten to twelve 9- or 10-inch crêpes
 
-Blue Cornmeal Crêpes: Follow the savory crêpe recipe, but replace the 1 cup all-purpose flour with 2/3 cup all-purpose flour and 2/3 cup blue cornmeal.
-
-Buckwheat Galettes: Follow the savory crêpe recipe, but replace the 1 cup all-purpose flour with 2/3 cup all-purpose flour and 2/3 cup buckwheat flour.
-
-Corn Flour Crêpes: Follow the savory crêpe recipe, but replace the 1 cup all-purpose flour with 2/3 cup all-purpose flour and 2/3 clip corn flour (which is more finely, ground than cornmeal).
-
-Cornstarch Crêpes: Follow the savory crepe recipe, but replace the 1 cup all-purpose flour with 1 cup cornstarch and add 1/8 teaspoon baking soda.
-
-Garbanzo Flour Crêpes: Follow the savory crêpe recipe, but replace the 1 cup all-purpose flour with 2/3 cup all-purpose flour and 2/3 cup garbanzo flour.
-
-Chestnut-Garbanzo Flour Crêpes: Follow the savory crêpe recipe, but replace the 1 cup all-purpose flour with 2/3 cup garbanzo flour and 1/2 cup chestnut flour.
-
-Whole-Wheat Crêpes: Follow the savory crepe recipe, but replace the 1 cup all-purpose flour with 1 cup whole-wheat flour or 1 cup wholewheat pastry flour, or 1/2 cup all-purpose flour and 1/2 cup whole-wheat flour.
+* Herb Crêpes: Follow the savory crêpe recipe and add 1/4 cup minced fresh chives, basil, or flat-leaf parsley to the batter while blending it. Or, for pale green mixed-herb crêpes, use 1/2 cup mixed minced fresh chives, green onion tops, flat-leaf parsley, tarragon, marjoram, and basil.
+* Sun-Dried Tomato Crêpes: Follow the savory crêpe recipe and add 1/4 cup minced oil-packed sun-dried tomatoes to the batter while blending it.
+* Blue Cornmeal Crêpes: Follow the savory crêpe recipe, but replace the 1 cup all-purpose flour with 2/3 cup all-purpose flour and 2/3 cup blue cornmeal.
+* Buckwheat Galettes: Follow the savory crêpe recipe, but replace the 1 cup all-purpose flour with 2/3 cup all-purpose flour and 2/3 cup buckwheat flour.
+* Corn Flour Crêpes: Follow the savory crêpe recipe, but replace the 1 cup all-purpose flour with 2/3 cup all-purpose flour and 2/3 clip corn flour (which is more finely, ground than cornmeal).
+* Cornstarch Crêpes: Follow the savory crepe recipe, but replace the 1 cup all-purpose flour with 1 cup cornstarch and add 1/8 teaspoon baking soda.
+* Garbanzo Flour Crêpes: Follow the savory crêpe recipe, but replace the 1 cup all-purpose flour with 2/3 cup all-purpose flour and 2/3 cup garbanzo flour.
+* Chestnut-Garbanzo Flour Crêpes: Follow the savory crêpe recipe, but replace the 1 cup all-purpose flour with 2/3 cup garbanzo flour and 1/2 cup chestnut flour.
+* Whole-Wheat Crêpes: Follow the savory crepe recipe, but replace the 1 cup all-purpose flour with 1 cup whole-wheat flour or 1 cup wholewheat pastry flour, or 1/2 cup all-purpose flour and 1/2 cup whole-wheat flour.
