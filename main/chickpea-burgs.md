@@ -58,8 +58,9 @@ Total time: 30 mins
 ### Serve
 Serve the burgers on buns with the tahini-ranch sauce, arugula and tomato slices.
 
-### To make ahead
+#### To make ahead
 The burger patties and tahini ranch sauce can be made in advance. Prepare through Step 3; cover separately and refrigerate for up to 24 hours.
 
 
-Source: https://www.eatingwell.com/recipe/273894/zucchini-chickpea-veggie-burgers-with-tahini-ranch-sauce/
+#### Source
+https://www.eatingwell.com/recipe/273894/zucchini-chickpea-veggie-burgers-with-tahini-ranch-sauce/
