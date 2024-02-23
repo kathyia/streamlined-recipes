@@ -14,13 +14,15 @@ Total time: 30 mins
 ## Ingredients
 
 * 4 tbsp tahini, divided
-* 1 tbsp lemon juice
 * 3 tsp white miso, divided
 * 1 ¼ tsp onion powder, divided
 * 1 ¼ tsp garlic powder, divided
 * 1 ¼ tsp ground pepper, divided
+* 1 tbsp lemon juice
 * 2 tbsp water
-* 1 tsp chopped fresh chives plus 2 tablespoons, divided
+* 1 tsp chopped fresh chives, sauce
+---
+* 2 tablespoons fresh chives, patties
 * 1 (15 oz) can no-salt-added chickpeas, rinsed
 * 1 tsp ground cumin
 * ¼ tsp salt
@@ -34,7 +36,7 @@ Total time: 30 mins
 
 ## Directions
 ### Sauce
-1. Combine 2 tbsp tahini, 1 tbsp lemon juice, 1 tsp miso, 1/2 tsp onion powder, 1/4 tsp garlic powder, 1/4 tsp pepper in a small bowl.
+1. Combine 2 tbsp tahini, 1 tsp miso, 1/2 tsp onion powder, 1/4 tsp garlic powder, 1/4 tsp pepper, 1 tbsp lemon juice in a small bowl.
 1. Gradually whisk in water until the mixture is smooth.
 1. Stir in 1 teaspoon chives. Set aside.
 
