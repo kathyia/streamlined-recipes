@@ -15,21 +15,21 @@ Total time: 30 mins
 
 * 4 tbsp tahini, divided
 * 1 tbsp lemon juice
-* 3 teaspoons white miso, divided
-* 1 ¼ teaspoons onion powder, divided
-* 1 ¼ teaspoons garlic powder, divided
-* 1 ¼ teaspoons ground pepper, divided
+* 3 tsp white miso, divided
+* 1 ¼ tsp onion powder, divided
+* 1 ¼ tsp garlic powder, divided
+* 1 ¼ tsp ground pepper, divided
 * 2 tbsp water
-* 1 teaspoon chopped fresh chives plus 2 tablespoons, divided
-* 1 (15 ounce) can no-salt-added chickpeas, rinsed
-* 1 teaspoon ground cumin
-* ¼ teaspoon salt
-* ¼ cup fresh parsley leaves
-* ½ cup shredded zucchini
-* ⅓ cup old-fashioned rolled oats
-* 1 tablespoon extra-virgin olive oil
+* 1 tsp chopped fresh chives plus 2 tablespoons, divided
+* 1 (15 oz) can no-salt-added chickpeas, rinsed
+* 1 tsp ground cumin
+* ¼ tsp salt
+* ¼ c fresh parsley leaves
+* ½ c shredded zucchini
+* ⅓ c old-fashioned rolled oats
+* 1 tbsp extra-virgin olive oil
 * 4 whole-grain hamburger buns, toasted
-* 1 cup packed fresh arugula
+* 1 c packed fresh arugula
 * 4 slices tomato
 
 ## Directions
